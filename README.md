@@ -1,4 +1,4 @@
-# Dashboard-xbox
+# Dashboard-xbox 🎮
 Tabela contendo base de vendas por clientes assinantes do Xbox.
 
 Foram feitas algumas tabelas dinâmicas para que fosse gerado os dados dos gráficos:
