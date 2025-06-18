@@ -1,7 +1,9 @@
 # Dashboard-xbox
 Tabela contendo base de vendas por clientes assinantes do Xbox.
 Foram feitas algumas tabelas dinâmicas para que fosse gerado os dados dos gráficos:
+
 1° Tabela ->
+
 ✔ Total de Vendas de Planos Anuais contendo as assinaturas.
 ✔ Total de Vendas de Planos Anuais separado por auto renovação ou não.
 
