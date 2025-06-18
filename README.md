@@ -1,5 +1,6 @@
 # Dashboard-xbox
 Tabela contendo base de vendas por clientes assinantes do Xbox.
+
 Foram feitas algumas tabelas dinâmicas para que fosse gerado os dados dos gráficos:
 
 1° Tabela ->
@@ -19,4 +20,9 @@ Foram feitas algumas tabelas dinâmicas para que fosse gerado os dados dos gráf
 4° Tabela ->
 
 ✔ Total de vendas com cupom de desconto.
+
+O Dashboard demonstra o resultado dos cálculos feitos nessas tabelas.
+O primeiro quadrante demontra o resultado do TOTAL SUBSCRIPTIONS EA PLAY SEASON PASS
+![image](https://github.com/user-attachments/assets/f03603d2-04d9-43a7-bbb8-ea50ba1eccf0)
+
 
