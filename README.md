@@ -23,17 +23,17 @@ Foram feitas algumas tabelas dinâmicas para que fosse gerado os dados dos gráf
 
 O Dashboard demonstra o resultado dos cálculos feitos nessas tabelas.📈📉📊
 
-O primeiro quadrante(esquerda) demonstra o resultado do **TOTAL SUBSCRIPTIONS EA PLAY SEASON PASS.**
+O primeiro quadrante(esquerda) demonstra o resultado do **TOTAL SUBSCRIPTIONS EA PLAY SEASON PASS.**🎮
 
-O da direita demonstra o resultado **TOTAL SUBSCRIPTIONS MINECRAFT PLAY SEASON PASS.**
+O da direita demonstra o resultado **TOTAL SUBSCRIPTIONS MINECRAFT PLAY SEASON PASS.**💲
 
-Conforme altera o Subscrition Type >> **Annual/ Montly/Quartely**, se altera o valor dentro das boxes.
+Conforme altera o Subscrition Type >> **Annual/ Montly/Quartely**, se altera o valor dentro das boxes.🕹
 
 Demonstra também no gráfico **TOTAL SUBSCRIPTIONS XBOX GAME PASS** os assinates auto renováveis ou não.📊📉📈
 
 O segundo quadrante(esquerda) demontra o resultado do **TOTAL SALES VALUE.**
 
-Já o da direita demonstra o resultado **TOTAL VALUE OF COUPONS.**
+Já o da direita demonstra o resultado **TOTAL VALUE OF COUPONS.**💲
 
 Conforme altera o Plan >> **Core/Standard/Ultimate**, se altera o valor dentro das boxes.
 
