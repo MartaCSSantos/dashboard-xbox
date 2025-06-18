@@ -22,7 +22,14 @@ Foram feitas algumas tabelas dinâmicas para que fosse gerado os dados dos gráf
 ✔ Total de vendas com cupom de desconto.
 
 O Dashboard demonstra o resultado dos cálculos feitos nessas tabelas.
-O primeiro quadrante demontra o resultado do TOTAL SUBSCRIPTIONS EA PLAY SEASON PASS
-![image](https://github.com/user-attachments/assets/f03603d2-04d9-43a7-bbb8-ea50ba1eccf0)
+
+O primeiro quadrante(esquerda) demonstra o resultado do _TOTAL SUBSCRIPTIONS EA PLAY SEASON PASS._
+
+O da direita demonstra o resultado _TOTAL SUBSCRIPTIONS MINECRAFT PLAY SEASON PASS._
+
+conforme altera o Subscrition Type >> *Annual/ Montly/Quartely*, se altera o valor dentro das boxes.
+
+
+
 
 
